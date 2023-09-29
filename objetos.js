@@ -32,6 +32,8 @@ producto.disponible = false
 //Delete
 delete producto.precio
 
+//cambios para github
+
 producto.origen = "China"
 // console.log(producto)
 
