@@ -1,8 +1,37 @@
-# React + Vite
+# Mi proyecto en React + Vite + Typescript
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Curso Coderhouse
 
-Currently, two official plugins are available:
+### Comision 49965
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Soy un parrafo
+
+---
+
+* Enumerar 1
+* Enumerar 2
+* Enumerar 3
+
+
+1. Primero
+1. Segundo
+1. Tercero
+
+**Negrita**
+_Italica_
+
+Documentacion
+![alt text](image.png)
+
+
+Visita mi perfil en LinkedIn
+[Linkedin](https://www.linkedin.com/in/omar-jesus-manias/)
+
+
+Dependencies
+
+
+* React + Vite
+* Typescript
+* Firebase
+* Zustand
